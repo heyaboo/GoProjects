@@ -1,4 +1,5 @@
 //This program calculates the final letter grade and prints onto the terminal after taking in user's input of all their scores
+//It demonstrates how to use if..else if statements of Golang
 
 /* REQUIREMENTS FOR THIS PROJECT
  so there are 3 exams, add them up and add it to a variable called "totalScore".
