@@ -73,6 +73,7 @@ func main() {
 
 	fmt.Println()
 	for i, r := range eachChar {
-		fmt.Printf("%d: %c\n", i, r)
+	    fmt.Printf("%d: %c\n", i, r)
+		
   }
 }
